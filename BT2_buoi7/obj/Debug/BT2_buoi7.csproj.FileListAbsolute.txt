@@ -1,0 +1,5 @@
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi7\BT2_buoi7\bin\Debug\BT2_buoi7.exe.config
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi7\BT2_buoi7\bin\Debug\BT2_buoi7.exe
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi7\BT2_buoi7\bin\Debug\BT2_buoi7.pdb
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi7\BT2_buoi7\obj\Debug\BT2_buoi7.exe
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi7\BT2_buoi7\obj\Debug\BT2_buoi7.pdb
